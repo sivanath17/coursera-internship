@@ -1,2 +1,6 @@
-![image](https://github.com/sivanath17/coursera-internship/assets/162865342/6e7c00d5-60ba-43e3-9da2-c77857535897)
+# Module-2 Coding Assignment
+
+🔶 <a href="https://www.coursera.org/learn/html-css-javascript-for-web-developers">HTML, CSS, and Javascript for Web Developers</a>
+
+<img src="https://github.com/ShafayetB/Coursera/blob/master/HTML-CSS-and-Javascript-for-Web-Developers/Assignments/Module%202-Solution/Module%202.PNG
 
